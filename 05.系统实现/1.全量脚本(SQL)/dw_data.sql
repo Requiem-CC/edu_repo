@@ -22,6 +22,9 @@ substr(wce.create_time,9,2) as dayinfo
 from  itcast_ods.web_chat_ems wce join itcast_ods.web_chat_text_ems wcte
 on wce.id = wcte.id ;
 
+
+————————2020-12-04 完成上述代码；————————————
+
 -- 将上述SQL的执行结果 导入到DWD层的表
 --动态分区配置
 set hive.exec.dynamic.partition=true;
