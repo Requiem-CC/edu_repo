@@ -266,7 +266,8 @@ from  itcast_dwd.visit_consult_dwd group by yearinfo,quarterinfo,monthinfo,dayin
 
 -- 此处关于基于搜索来源 来源渠道 以及来访页面维度 省略  
 
-————————一下为咨询量表暂时未操作
+————————以下为咨询量表暂时未操作
+—————————以下未手写，未看视频  20-访问咨询主题看板_咨询量的DWS层统计操作.itheima
 --  咨询量的数据统计操作: 
 指标: 咨询量
 维度: 时间维度 地区维度 来源渠道
