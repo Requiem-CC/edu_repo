@@ -56,6 +56,9 @@ substr(wce.create_time,9,2) as dayinfo
 from  itcast_ods.web_chat_ems wce join itcast_ods.web_chat_text_ems wcte
 on wce.id = wcte.id ;
 
+————————2020-12-05 上午完成DWD层数据导入————————————
+
+
 -- 从 DWD 层 生成 DWS层的数据: 数据分析
 --访问量: 
   -- 维度:  时间维度  地区维度 来源渠道  搜索来源  受访页面
